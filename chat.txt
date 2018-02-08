@@ -1,0 +1,19 @@
+/n1. Update sprite size,
+/n2. add in berries and holes in the hive that you can click to fill in
+/n3. free form draw with an undo button
+/n4. Save & upload to photo sharing site
+/n5. ability to flip the models so they're facing the other way
+/n6. some ability to hide the characters you aren't using
+/n7. importing capsule hitboxes in here
+/n8. ability to zoom in
+/n9. Add gates, berries, and hive holes. 
+/n10. Fix issue with sprites not draggable
+/n11. Add offline mode (save all files in same folder).
+/n12. Ability to add gifs
+/n13. collision detection (between charachters and walls. Between Charachters can be helpful too)
+
+
+
+
+
+

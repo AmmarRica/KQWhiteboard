@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<script src="https://cdn.rawgit.com/konvajs/konva/1.7.6/konva.min.js"></script>
+
+			<link rel="stylesheet" href="index.css">
+			<meta charset="utf-8">
+	  		<title>KQ Whiteboard</title>
+	</head>
+	<body>
+		<center id="maps">
+		  <text id="save">refresh if you can't drag charachters around!</text>
+
+
+		  <button id="day" onclick="drawBackground(srcDay)">Day</button>
+		  <button id="night" onclick="drawBackground(srcNight)">Night</button>
+		  <button id="dusk" onclick="drawBackground(srcDusk)">Dusk</button>
+
+
+		  <button id="About" onclick="about()">about</button>
+
+		</center>
+
+
+		<div id="container">
+		</div>
+
+
+		<script src="index.js"></script>
+	</body>
+</html>
